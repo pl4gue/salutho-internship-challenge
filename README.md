@@ -60,7 +60,7 @@ Para submeter sua solução, siga os passos abaixo:
 4. Envie um e-mail para [rh@salutho.com] com o assunto "Submissão do Desafio de Estágio - [Seu Nome Completo]" com o link do repositório GitHub do seu projeto.
 
 ## Deadline
-O prazo para submeter as soluções é até às 23:59 do dia 02 de junho de 2024.
+O prazo para submeter as soluções é até às 23:59 do dia 26 de maio de 2024.
 
 ## Dúvidas
 Se tiver qualquer dúvida ou necessitar de esclarecimentos adicionais, por favor, envie mensagem para william.silveira@salutho.com.
