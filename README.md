@@ -57,10 +57,10 @@ Para submeter sua solução, siga os passos abaixo:
 1. Crie um fork deste repositório (*Mantenha privado).
 2. Desenvolva sua solução no fork criado.
 3. Certifique-se de incluir um `README` em seu repositório com instruções claras sobre como configurar e executar sua aplicação, incluindo o servidor Django.
-4. Envie um e-mail para [william.silveira@salutho.com] com o assunto "Submissão do Desafio de Estágio - [Seu Nome Completo]" com o link do repositório GitHub do seu projeto.
+4. Envie um e-mail para [rh@salutho.com] com o assunto "Submissão do Desafio de Estágio - [Seu Nome Completo]" com o link do repositório GitHub do seu projeto.
 
 ## Deadline
-O prazo para submeter as soluções é até às 23:59 do dia 26 de maio de 2024.
+O prazo para submeter as soluções é até às 23:59 do dia 02 de junho de 2024.
 
 ## Dúvidas
 Se tiver qualquer dúvida ou necessitar de esclarecimentos adicionais, por favor, envie mensagem para william.silveira@salutho.com.
