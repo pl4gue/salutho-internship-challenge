@@ -27,24 +27,20 @@ Este desafio consiste em desenvolver uma aplicação em React que interage com u
 - **Backend:** Django
 - **Estilização:** Escolha livre entre CSS puro, pré-processadores (como SASS ou LESS) ou bibliotecas de componentes estilizados (como styled-components).
 
-## Build
+## Build e Execução
 
 ### Pré-requisitos
 
 Antes de iniciar o build do projeto, você precisa ter os seguintes softwares instalados em sua máquina:
 
-- `python` : ^3.10.x
-- `node.js` : ^20.18.x
-- `npm` : ^10.8.x
-- `make` : ^4.4.x
+- Python: ^3.12.7
+- Node.js: ^20.18.0
+- npm: ^10.8.2
+- make: ^4.4.1
 
-### Configuração do Ambiente
+### Comandos para Build
 
-Para configurar o ambiente do projeto, utilize o Makefile incluído no repositório. O Makefile permite a criação do ambiente virtual e a instalação das dependências tanto do backend quanto do frontend.
-
-#### Comandos para Build
-
-1. Build do Projeto: Para construir o projeto, execute:
+Para construir o projeto, execute:
 
 ```
 make build
@@ -53,25 +49,24 @@ make build
 Este comando irá:
 
 - Limpar o build anterior, se este existir.
-- Criar um ambiente virtual para o backend.
+- Criar um ambiente virtual para o backend com suas dependências instaladas.
 - Instalar as dependências do backend.
 - Construir o frontend.
 
-#### Execução do Projeto
+### Execução do Projeto
 
-Após construir o projeto, você pode executar os servidores do backend e do frontend:
-
-Rodar os Servidores: Execute o seguinte comando para iniciar os servidores:
+Após construir o projeto, você pode executar os servidores do backend e do frontend usando o comando:
 
 ```
 make run
 ```
 
-Isso irá iniciar tanto o servidor Django quanto o servidor React.
+Isso irá iniciar tanto o servidor Django (backend) quanto o servidor React (frontend).
 
-#### Acesso à Aplicação
+### Acesso à Aplicação
 
-Após iniciar os servidores, você poderá acessar a aplicação através do navegador no endereço:
+Após iniciar os servidores, você poderá acessar o frontend através do navegador e o backend via
+requisições HTTP nos endereços:
 
 - Frontend: http://localhost:3000
-- Backend: http://localhost:8000 (apenas para testes de API)
+- Backend: http://localhost:8000
