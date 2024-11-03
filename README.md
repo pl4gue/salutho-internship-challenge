@@ -33,9 +33,10 @@ Este desafio consiste em desenvolver uma aplicação em React que interage com u
 
 Antes de iniciar o build do projeto, você precisa ter os seguintes softwares instalados em sua máquina:
 
-- python 3.x
-- node.js e npm
-- make
+- `python` : ^3.10.x
+- `node.js` : ^20.18.x
+- `npm` : ^10.8.x
+- `make` : ^4.4.x
 
 ### Configuração do Ambiente
 
